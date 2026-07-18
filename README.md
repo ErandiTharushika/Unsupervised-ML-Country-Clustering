@@ -49,7 +49,7 @@ Unsupervised-ML-Country-Clustering/
 ## Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/Unsupervised-ML-Country-Clustering.git
+git clone https://github.com/ErandiTharushika/Unsupervised-ML-Country-Clustering.git
 cd Unsupervised-ML-Country-Clustering
 pip install -r requirements.txt
 jupyter notebook notebooks/
