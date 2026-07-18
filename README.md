@@ -15,7 +15,6 @@ Unsupervised-ML-Country-Clustering/
 │   └── clustering_countrydata.ipynb                 # K-Means & DBSCAN
 ├── dataset/
 │   └── Country-data.csv
-├── Country_Clustering_Report.pdf                    # ~500-word summary report
 └── README.md
 ```
 
