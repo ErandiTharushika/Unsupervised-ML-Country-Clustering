@@ -56,6 +56,3 @@ pip install -r requirements.txt
 jupyter notebook notebooks/
 ```
 
-## Report
-
-See [`Country_Clustering_Report.pdf`](./Country_Clustering_Report.pdf) for a written summary of the methodology and insights.
